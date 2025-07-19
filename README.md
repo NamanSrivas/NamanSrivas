@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naman-srivastava/naman-srivastava/main/banner.png" alt="Naman Srivastava Banner" />
+  <img src="https://raw.githubusercontent.com/NamanSrivas/NamanSrivas/main/banner.png" alt="Naman Srivastava Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Naman Srivastava</h1>
 <h3 align="center">Full Stack & Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naman-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NamanSrivas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 
 ---
 
@@ -51,8 +50,8 @@
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| [SmartHarvest](https://github.com/naman-srivastava/SmartHarvest) | Tax-saving investment tracker with PDF export, filters, history | React, Tailwind, Flask |
-| [TaskEase](https://github.com/naman-srivastava/TaskEase) | AI task manager with smart assistant & JWT login | React, Flask, JWT |
+| [SmartHarvest](https://github.com/NamanSrivas/SmartHarvest) | Tax-saving investment tracker with PDF export, filters, history | React, Tailwind, Flask |
+| [TaskEase](https://github.com/NamanSrivas/TaskEase) | AI task manager with smart assistant & JWT login | React, Flask, JWT |
 | [Portfolio](https://naman-srivastava-portfolio.netlify.app/) | Personal website & portfolio | HTML, Tailwind, Netlify |
 
 ---
@@ -60,8 +59,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naman-srivastava&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-srivastava&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanSrivas&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanSrivas&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
