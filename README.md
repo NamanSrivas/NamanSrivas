@@ -61,7 +61,6 @@
 |------|-------------|------------|
 | [SmartHarvest](https://github.com/naman-srivastava/SmartHarvest) | A tax-saving investment app with PDF export, charts, and history filters | React, Tailwind, Flask |
 | [TaskEase](https://github.com/naman-srivastava/TaskEase) | AI task manager with JWT login and smart assistant | React, Flask, JWT |
-| [PAD (Proximity Alert Device)](https://github.com/naman-srivastava/PAD) | Arduino-based object detection system with sensors | Arduino, C, Embedded |
 | [Portfolio](https://naman-srivastava-portfolio.netlify.app/) | Clean, mobile-responsive portfolio with animations | HTML, TailwindCSS, Netlify |
 
 ---
