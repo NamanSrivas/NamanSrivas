@@ -1,52 +1,44 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naman-srivastava/naman-srivastava/main/banner.png" alt="Naman Srivastava Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Naman Srivastava</h1>
-<h3 align="center">A Passionate Full Stack & Software Engineer</h3>
+<h3 align="center">Full Stack & Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naman-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=naman-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://naman-srivastava-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-naman--srivastava--portfolio.netlify.app-009688?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/naman-srivastava-3505b6326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Naman%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🚀 I'm a full stack developer who loves building web apps and real-world solutions.
-- 🔭 Currently working on **SmartHarvest** – a tax-saving investment tracking app.
-- 🌐 Portfolio: [naman-srivastava-portfolio.netlify.app](https://naman-srivastava-portfolio.netlify.app/)
-- 💬 Ask me about anything related to **React, Flask, Tailwind, REST APIs, or automation**
-- 📈 I’m focused on creating impact through smart design and clean code.
+- 🔭 Currently working on **SmartHarvest** – a tax-saving investment app with real-time charts and filters  
+- 🧠 I love turning ideas into real-world products with clean UI and smart backend  
+- 🌐 Portfolio: [naman-srivastava-portfolio.netlify.app](https://naman-srivastava-portfolio.netlify.app/)  
+- 📫 Email: **namansrivas09@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-#### 💻 Languages
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+**Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 
-#### ⚙️ Frameworks & Libraries
+**Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+
+**Backend:**  
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 
-#### 🛢️ Database & Tools
+**Database & Tools:**  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -55,13 +47,13 @@
 
 ---
 
-### 🔥 Projects
+### 🚀 Projects
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| [SmartHarvest](https://github.com/naman-srivastava/SmartHarvest) | A tax-saving investment app with PDF export, charts, and history filters | React, Tailwind, Flask |
-| [TaskEase](https://github.com/naman-srivastava/TaskEase) | AI task manager with JWT login and smart assistant | React, Flask, JWT |
-| [Portfolio](https://naman-srivastava-portfolio.netlify.app/) | Clean, mobile-responsive portfolio with animations | HTML, TailwindCSS, Netlify |
+| [SmartHarvest](https://github.com/naman-srivastava/SmartHarvest) | Tax-saving investment tracker with PDF export, filters, history | React, Tailwind, Flask |
+| [TaskEase](https://github.com/naman-srivastava/TaskEase) | AI task manager with smart assistant & JWT login | React, Flask, JWT |
+| [Portfolio](https://naman-srivastava-portfolio.netlify.app/) | Personal website & portfolio | HTML, Tailwind, Netlify |
 
 ---
 
@@ -74,21 +66,16 @@
 
 ---
 
-### 🌟 Quote of the Day
-> “First, solve the problem. Then, write the code.” – John Johnson
+### 🔗 Connect With Me
 
----
-
-### 🎯 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/naman-srivastava-3505b6326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Naman%20Srivastava-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="mailto:namansrivas09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-namansrivas09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/naman-srivastava-3505b6326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Naman%20Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://naman-srivastava-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-009688?style=for-the-badge&logo=webflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-009688?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </p>
